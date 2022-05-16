@@ -9,6 +9,7 @@
   "repository": "bottom-sheet/types",
   "license": "MIT",
   "author": "Cody Olsen",
+  "sideEffects": false,
   "main": "",
   "source": "src/index.ts",
   "types": "dist/index.d.ts",
