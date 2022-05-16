@@ -1,6 +1,6 @@
 {
   "name": "@bottom-sheet/types",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "TypeScript definitions that are shared between packages",
   "homepage": "https://react-spring.bottom-sheet.dev",
   "bugs": {
