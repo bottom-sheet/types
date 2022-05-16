@@ -32,9 +32,7 @@ export interface GetSnapPointsProps {
   maxHeight: number
 }
 
-export type GetSnapPoints = (
-  props: GetSnapPointsProps
-) => [number, ...number[]] | number
+export type GetSnapPoints = (props: GetSnapPointsProps) => SnapPoints | number
 
 export interface GetInitialHeightProps extends GetSnapPointsProps {
   /** The snap points currently in use, this can be controlled by providing a `snapPoints` function on the bottom sheet. */
