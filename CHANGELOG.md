@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/bottom-sheet/types/compare/v1.0.2...v1.0.3) (2022-05-16)
+
+
+### Bug Fixes
+
+* re-use SnapPoints type ([4e6647c](https://github.com/bottom-sheet/types/commit/4e6647c7acd91534b136853c28e1b65dcd256dda))
+
 ## [1.0.2](https://github.com/bottom-sheet/types/compare/v1.0.1...v1.0.2) (2022-05-16)
 
 
