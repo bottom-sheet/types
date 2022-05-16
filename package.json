@@ -2,6 +2,11 @@
   "name": "@bottom-sheet/types",
   "version": "1.0.3",
   "description": "TypeScript definitions that are shared between packages",
+  "keywords": [
+    "typescript",
+    "bottom-sheet",
+    "react-spring-bottom-sheet"
+  ],
   "homepage": "https://react-spring.bottom-sheet.dev",
   "bugs": {
     "url": "https://github.com/bottom-sheet/types/issues"
