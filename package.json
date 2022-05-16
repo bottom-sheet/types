@@ -22,7 +22,7 @@
     "lint": "prettier --check .",
     "lint:format": "prettier --write .",
     "prepublishOnly": "npm run build",
-    "test": "tsc --noEmit"
+    "test": "npm run lint && npm run build"
   },
   "prettier": {
     "semi": false,
