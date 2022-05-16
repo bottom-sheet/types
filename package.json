@@ -1,0 +1,40 @@
+{
+  "name": "@bottom-sheet/types",
+  "version": "0.0.0",
+  "description": "TypeScript definitions that are shared between packages",
+  "homepage": "https://react-spring.bottom-sheet.dev",
+  "bugs": {
+    "url": "https://github.com/bottom-sheet/types/issues"
+  },
+  "repository": "bottom-sheet/types",
+  "license": "MIT",
+  "author": "Cody Olsen",
+  "main": "",
+  "source": "src/index.ts",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "prebuild": "rimraf dist/**",
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "lint": "prettier --check .",
+    "lint:format": "prettier --write .",
+    "prepublishOnly": "npm run build",
+    "test": "tsc --noEmit"
+  },
+  "prettier": {
+    "semi": false,
+    "singleQuote": true
+  },
+  "devDependencies": {
+    "@semantic-release/changelog": "^6.0.1",
+    "@semantic-release/git": "^10.0.1",
+    "prettier": "^2.6.2",
+    "prettier-plugin-packagejson": "^2.2.18",
+    "rimraf": "^3.0.2",
+    "semantic-release": "^19.0.2",
+    "typescript": "^4.6.4"
+  }
+}

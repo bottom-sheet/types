@@ -1,2 +1,10 @@
-# types
-TypeScript definitions that are shared between packages
+[![npm stat](https://img.shields.io/npm/dm/@bottom-sheet/types.svg?style=flat-square)](https://npm-stat.com/charts.html?package=@bottom-sheet/types)
+[![npm version](https://img.shields.io/npm/v/@bottom-sheet/types.svg?style=flat-square)](https://www.npmjs.com/package/@bottom-sheet/types)
+
+Docs are coming in `v1`.
+
+# Installation
+
+```bash
+npm i @bottom-sheet/types
+```
