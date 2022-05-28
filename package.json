@@ -13,7 +13,7 @@
   },
   "repository": "bottom-sheet/types",
   "license": "MIT",
-  "author": "Cody Olsen",
+  "author": "Cody Olsen <stipsan@gmail.com>",
   "sideEffects": false,
   "main": "",
   "source": "src/index.ts",
@@ -41,7 +41,7 @@
     "prettier-plugin-packagejson": "^2.2.18",
     "rimraf": "^3.0.2",
     "semantic-release": "^19.0.2",
-    "typescript": "^4.6.4"
+    "typescript": "^4.7.2"
   },
   "publishConfig": {
     "access": "public"
