@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/bottom-sheet/types/compare/v1.0.5...v1.0.6) (2022-05-28)
+
+
+### Bug Fixes
+
+* **docs:** remvoe note about v2 ([ffec1dc](https://github.com/bottom-sheet/types/commit/ffec1dc44a1abe52f6937a2136628ca4d4898d1e))
+
 ## [1.0.5](https://github.com/bottom-sheet/types/compare/v1.0.4...v1.0.5) (2022-05-28)
 
 
