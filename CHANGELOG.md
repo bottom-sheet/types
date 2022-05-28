@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/bottom-sheet/types/compare/v1.0.3...v1.0.4) (2022-05-28)
+
+
+### Bug Fixes
+
+* **deps:** lock file maintenance ([#6](https://github.com/bottom-sheet/types/issues/6)) ([8ffe213](https://github.com/bottom-sheet/types/commit/8ffe213ea0a264017ba59d1177eab0a31052e7a8))
+
 ## [1.0.3](https://github.com/bottom-sheet/types/compare/v1.0.2...v1.0.3) (2022-05-16)
 
 

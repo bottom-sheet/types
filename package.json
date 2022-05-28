@@ -1,6 +1,6 @@
 {
   "name": "@bottom-sheet/types",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "TypeScript definitions that are shared between packages",
   "keywords": [
     "typescript",
