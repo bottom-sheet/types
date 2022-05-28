@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/bottom-sheet/types/compare/v1.0.4...v1.0.5) (2022-05-28)
+
+
+### Bug Fixes
+
+* update author ([8d63fc8](https://github.com/bottom-sheet/types/commit/8d63fc8bc377f7bbd44e383b17bdc86bdfaa1897))
+
 ## [1.0.4](https://github.com/bottom-sheet/types/compare/v1.0.3...v1.0.4) (2022-05-28)
 
 
