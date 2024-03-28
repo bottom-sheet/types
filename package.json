@@ -35,13 +35,13 @@
     "singleQuote": true
   },
   "devDependencies": {
-    "@semantic-release/changelog": "^6.0.1",
+    "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/git": "^10.0.1",
-    "prettier": "^2.6.2",
-    "prettier-plugin-packagejson": "^2.2.18",
+    "prettier": "^2.8.8",
+    "prettier-plugin-packagejson": "^2.4.13",
     "rimraf": "^3.0.2",
-    "semantic-release": "^19.0.2",
-    "typescript": "^4.7.2"
+    "semantic-release": "^19.0.5",
+    "typescript": "^4.9.5"
   },
   "publishConfig": {
     "access": "public"
